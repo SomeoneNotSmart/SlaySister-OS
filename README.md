@@ -20,7 +20,7 @@ Here are the reviews of our dear testers 🥰
 
 ## Current Goals:
 
- - [ ] Start working on Beta version
+ - [x] Start working on Beta version
  - [ ] Start working on Alpha version
  - [ ] Finish Beta Version
  - [x] Test Beta Version
