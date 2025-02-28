@@ -36,4 +36,4 @@ Here are the reviews of our dear testers 🥰
  - [ ] **~~[REDACTED]~~**
 
  
- 
+ > Note: This repository will contain only the newest release of the Slaysister OS. For previous release, other repositories would be made, and if not, contact me via gmail
