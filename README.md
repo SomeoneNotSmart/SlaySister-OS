@@ -1,4 +1,4 @@
-## SlaySister OS (Beta Release, WIP)
+## SlaySister OS (Alpha Release, WIP)
 **Slaysister OS** is an Ubuntu based distro, providing user-friendly start, with some command being changed using **alias** (ex. `sudo apt get update` --> `update`)
 
 Almost all bloatware that user might not need is removed from Slaysister OS to minimize the space, taken up by the operating system. Slaysister OS is based on Ubuntu 22.04 (Jammy Jellyfish), and has almost the same requirements
@@ -20,10 +20,10 @@ Here are the reviews of our dear testers 🥰
 
 ## Current Goals:
 
- - [x] Start working on Beta version
- - [ ] Start working on Alpha version
+ - [ ] Start working on Beta version
+ - [x] Start working on Alpha version
  - [ ] Finish Beta Version
- - [x] Test Beta Version
+ - [ ] Test Beta Version
  - [ ] Post Beta release
  - [ ] Make User-friendly interface
  - [ ] Make User-friendly terminal
