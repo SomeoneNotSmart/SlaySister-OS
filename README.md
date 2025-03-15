@@ -2,9 +2,9 @@
 **Slaysister OS** is an Arch Linux based distro, providing user-friendly start, having Budgie desktop eviroment
 
 The requirements
- - 1 GHz CPU
- - At least 4096 MB of RAM (Desktop Installation)
- - At least 10 GB of space on the PC
+ - 1 GHz CPU (dual-core recommended)
+ - At least 2 GB of RAM
+ - At least 10 GB of space on the PC (30 GB recommended)
  - 3D Acceleration-capable GPU with at least 256 MB of VRAM
 
 Here are the reviews of our dear testers 🥰
