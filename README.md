@@ -1,12 +1,10 @@
 ## SlaySister OS (Alpha Release, WIP)
-**Slaysister OS** is an Ubuntu based distro, providing user-friendly start, with some command being changed using **alias** (ex. `sudo apt get update` --> `update`)
+**Slaysister OS** is an Arch Linux based distro, providing user-friendly start, having Budgie desktop eviroment
 
-Almost all bloatware that user might not need is removed from Slaysister OS to minimize the space, taken up by the operating system. Slaysister OS is based on Ubuntu 22.04 (Jammy Jellyfish), and has almost the same requirements
-
- - 2 GHz CPU
+The requirements
+ - 1 GHz CPU
  - At least 4096 MB of RAM (Desktop Installation)
- - At least 2048 MB of RAM (Virtual Installation)
- - 25 GB of space on the PC
+ - At least 10 GB of space on the PC
  - 3D Acceleration-capable GPU with at least 256 MB of VRAM
 
 Here are the reviews of our dear testers 🥰
